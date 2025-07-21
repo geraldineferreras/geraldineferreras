@@ -1,43 +1,51 @@
-<!-- GERALDINE'S MAGICAL DEV CORNER 🌸✨ -->
-
-<h1 align="center">✨ Hello, World! I'm Geraldine Ferreras 👩‍💻</h1>
-<h3 align="center">🌟 BSIT 4C | Full-Stack Developer | IoT Innovator | Curious Mind</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=450&lines=Code+with+Purpose.;Design+with+Heart.;Build+what+matters.;Repeat+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!%F0%9F%95%B9%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/geraldine-ferreras/">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ferrerasgeraldine@example.com">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email"/>
+  </a>
+</p>
 
-🌈 **A Glimpse Into My Universe**
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+</p>
 
 ```yaml
-🧑‍💻 Name: Geraldine Ferreras
-🎓 Role: BSIT 4C @ Don Honorio Ventura State University
-🧠 Motto: Dream, design, develop.
-📍 Location: Philippines 🇵🇭
+name: Geraldine Ferreras
+role: Full-Stack Developer | IoT Enthusiast
+education: BSIT 4C @ Don Honorio Ventura State University
+location: Philippines 🇵🇭
+currently_building:
+  - Smart Classroom Management System (SCMS)
+  - MobilityCom: IoT Glove Project
+motto: Dream, design, develop.
+fun_fact: I don’t eat vegetables 🥦🚫 — but I do devour bugs in my code 😄
+```
 
-🛠️ Tech Magic I Cast:
-💻 Languages:    PHP, HTML/CSS, JavaScript, SQL
-🚀 Frameworks:   Laravel, CodeIgniter 3, Bootstrap
-🔌 Tools:        MySQL, Git, VSCode, Postman, Arduino IDE
-🧪 Currently:    Building SCMS & IoT Glove "MobilityCom"
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
+</p>
 
-🌟 What I’m Currently Crafting:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geraldineferreras&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldineferreras&layout=compact&theme=radical" />
+</p>
 
-🏫 Smart Classroom Management System (SCMS)
-An all-in-one solution for teachers, students, and admins — think Google Classroom meets Moodle, but smarter.
+![Snake animation](https://github.com/geraldineferreras/geraldineferreras/blob/output/github-contribution-grid-snake.svg)
 
-🧤 MobilityCom: The Wearable Glove Project
-Helping patients express themselves using hand movements, sensors, and IoT magic. Built with 💗 + Arduino + PHP.
-
-🎨 Aesthetic Meets Function
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=php,laravel,bootstrap,js,html,css,mysql,vscode,arduino,git" /> </p>
-📡 Let’s Connect, Collaborate, or Just Chat!
-
-<p align="center"> <a href="https://www.linkedin.com/in/geraldine-ferreras/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:ferrerasgeraldine@example.com"> <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-🧁 Fun Fact About Me
-I don’t eat vegetables 🥦🚫 — but I do devour bugs in my code 😄
-
-📌 "Code with intention, create with kindness, and leave a mark that matters."
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100"/>
+</p>
