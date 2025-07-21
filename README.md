@@ -82,3 +82,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=geraldineferreras&" alt="geraldineferreras" />
 </p>
+
+<p align="center">
+  <img src="https://github.com/geraldineferreras/geraldineferreras/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
